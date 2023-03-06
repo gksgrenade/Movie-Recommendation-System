@@ -1,4 +1,4 @@
-# Recommendation System
+# Movie Recommendation System
 Unsupervised Learning Project
 
 Processed Data Code : <a href="https://github.com/Baba14Yaga/ML_movie_recommendation_system">Data Preprocessing</a>

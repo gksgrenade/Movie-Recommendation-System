@@ -10,7 +10,7 @@ Processed Data Code : <a href="https://github.com/Baba14Yaga/ML_movie_recommenda
 </ul>
 
 
-### Three Recommendation Type:
+### Recommendation Types:
 <ul>
   <li>Section A: Content based</li>
   <li>Section B: Collaborative</li>
